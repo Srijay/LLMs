@@ -1,6 +1,6 @@
 import requests
 
-api_key = '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'
+api_key = <Groq_API_Key>
 
 # Set up headers for authorization
 headers = {'Authorization': f'Bearer {api_key}'}
